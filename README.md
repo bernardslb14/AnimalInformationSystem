@@ -19,7 +19,8 @@
 - Django;
 - Data repository (GraphDB);
 - Data operations (SPARQL);
+- Data format (RDF);
 - Ontology (RDFS & OWL);
-- Inferences (RDF & SPIN);
+- Inferences (SPIN);
 - SPARQLwrapper (DBpedia & Wikidata);
 - Publication of Semantics (RDFa & Microformats);
