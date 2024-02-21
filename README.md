@@ -9,7 +9,7 @@
 **Project Title:** Animal Scouter
 
 **Brief Description:** 
-- Soon...
+- This practical work was dedicated to the development of a web-based information system about the animal ecosystem;
 <br/>
 
 
